@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and local files
+*.log
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Jupyter
